@@ -49,9 +49,9 @@
                             <li><a href="./blog.php">Blog</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="dropdown">
-                                    <li><a href="./gallery.html">Gallery</a></li>
-                                    <li><a href="./portfolio-details.html">Portfolio Details</a></li>
-                                    <li><a href="./blog-details.html">Blog Details</a></li>
+                                    <li><a href="./gallery.php">Gallery</a></li>
+                                    <li><a href="./portfolio-details.php">Portfolio Details</a></li>
+                                    <li><a href="./blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
                             <li><a href="./contact.php">Contact</a></li>
@@ -73,7 +73,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="bo-links">
-                        <a href="./index.html"><i class="fa fa-home"></i> Home</a>
+                        <a href="./index.php"><i class="fa fa-home"></i> Home</a>
                         <span>About</span>
                     </div>
                 </div>

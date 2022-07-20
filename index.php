@@ -42,19 +42,19 @@
                     <nav class="nav-menu mobile-menu">
                         <ul>
                             <li class="active"><a href="./index.html">Home</a></li>
-                            <li><a href="./about.html">About</a></li>
+                            <li><a href="./about.php">About</a></li>
                             <li><a href="./services.html">Services</a></li>
-                            <li><a href="./pricing.html">Pricing</a></li>
-                            <li><a href="./portfolio.html">Portfolio</a></li>
-                            <li><a href="./blog.html">Blog</a></li>
+                            <li><a href="./pricing.php">Pricing</a></li>
+                            <li><a href="./portfolio.php">Portfolio</a></li>
+                            <li><a href="./blog.php">Blog</a></li>
                             <li><a href="#">Pages</a>
                                 <ul class="dropdown">
-                                    <li><a href="./gallery.html">Gallery</a></li>
-                                    <li><a href="./portfolio-details.html">Portfolio Details</a></li>
-                                    <li><a href="./blog-details.html">Blog Details</a></li>
+                                    <li><a href="./gallery.php">Gallery</a></li>
+                                    <li><a href="./portfolio-details.php">Portfolio Details</a></li>
+                                    <li><a href="./blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="./contact.html">Contact</a></li>
+                            <li><a href="./contact.php">Contact</a></li>
                         </ul>
                     </nav>
                     <div class="top-search search-switch">
